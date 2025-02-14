@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.27b01dd1.css",
-    "main.js": "./static/js/main.bc52fb13.js",
+    "main.css": "./static/css/main.8a680a06.css",
+    "main.js": "./static/js/main.e799e556.js",
+    "static/media/vid1.mp4": "./static/media/vid1.15d432764c5eca8bbfb0.mp4",
+    "static/media/vid4.mp4": "./static/media/vid4.57a034ca04c87bce7b7d.mp4",
+    "static/media/noApplicants.png": "./static/media/noApplicants.acb974891c96e1c44c36.png",
+    "static/media/noJobsPosted.png": "./static/media/noJobsPosted.5410309d7db2c8a4f425.png",
+    "static/media/2.png": "./static/media/2.9f87512f8cbee42cd134.png",
+    "static/media/desjob.png": "./static/media/desjob.0a0c97d96982e68f85d6.png",
+    "static/media/no_data_img.jpg": "./static/media/no_data_img.7e1ca706e69ab623fec6.jpg",
+    "static/media/person.png": "./static/media/person.a7fe0ccc9276996360a5.png",
+    "static/media/noSignal.jpg": "./static/media/noSignal.77fd17e946dc9d6e351e.jpg",
     "index.html": "./index.html",
-    "main.27b01dd1.css.map": "./static/css/main.27b01dd1.css.map",
-    "main.bc52fb13.js.map": "./static/js/main.bc52fb13.js.map"
+    "main.8a680a06.css.map": "./static/css/main.8a680a06.css.map",
+    "main.e799e556.js.map": "./static/js/main.e799e556.js.map"
   },
   "entrypoints": [
-    "static/css/main.27b01dd1.css",
-    "static/js/main.bc52fb13.js"
+    "static/css/main.8a680a06.css",
+    "static/js/main.e799e556.js"
   ]
 }
